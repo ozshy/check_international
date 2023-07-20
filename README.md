@@ -2,6 +2,4 @@ Data and R-code for an article entitled: "Use of Checks in Selected Countries."
 
 Diallo, A. and O. Shy. "Use of Checks in Selected Countries." Federal Reserve Bank of Atlanta, Research Data Report No. 23–1, (2023). 
 
-https://www.atlantafed.org/banking-and-payments/consumer-payments/research-data-reports/2023/07/14/use-of-checks-in-selected-countries 
-
-Data source: The Red Book (CPMI), Bank of International Settlements. Links are provided in the paper. 
+Data source: The Red Book (CPMI) from the Bank of International Settlements and OECD. Links are provided in the paper. 
